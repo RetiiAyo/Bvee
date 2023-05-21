@@ -24,3 +24,9 @@ Last changed 21.05.2023
 Bvee™ -  Welcome images, Moderation, Leveling and so much more.
 
 # Contact Us
+
+Developer: Retii#4208
+
+# Notice
+
+We can anytime change our ToS without warning users.
