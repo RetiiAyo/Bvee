@@ -25,7 +25,7 @@ Bvee™ -  Welcome images, Moderation, Leveling and so much more.
 
 # Contact Us
 
-Developer: Retii#4208
+Developer: rf_r
 
 # Notice
 
