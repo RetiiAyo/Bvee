@@ -19,7 +19,7 @@ We store your data only because the bot won't be functional, and as the JSON fil
 
 # More
 
-Last changed 21.05.2023
+Last changed 30.06.2023
 
 Bvee™ -  Welcome images, Moderation, Leveling and so much more.
 
